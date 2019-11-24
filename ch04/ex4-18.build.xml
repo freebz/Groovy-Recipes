@@ -1,0 +1,11 @@
+<!-- 4.12 Compiling Your Project with Ant -->
+
+<taskdef name="groovyc"
+	 classname="org.codehaus.groovy.ant.Groovyc"
+	 classpathref="my.classpath"/>
+
+<groovyc
+     srcdir="${src}"
+     destdir="${dest}"
+     classpathref="my.classpath"
+     jointCompilationOption="-j -Jsource=1.4 -Jtarget=1.4" />
