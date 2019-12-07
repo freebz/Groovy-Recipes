@@ -1,0 +1,23 @@
+<addressBook>
+  <entry id='99'>
+    <name>John Smith</name>
+    <address>456 Fleet St</address>
+    <city>Denver</city>
+    <state>CO</state>
+    <zipcode>80021</zipcode>
+  </entry>
+  <entry id='100'>
+    <name>Jane Doe</name>
+    <address>123 Main St</address>
+    <city>Denver</city>
+    <state>CO</state>
+    <zipcode>80020</zipcode>
+  </entry>
+  <entry id='101'>
+    <name>Frank Jones</name>
+    <address>345 Center Blvd</address>
+    <city>Omaha</city>
+    <state>NE</state>
+    <zipcode>68124</zipcode>
+  </entry>
+</addressBook>
