@@ -1,0 +1,4 @@
+// Book.groovy
+class Book {
+
+}
